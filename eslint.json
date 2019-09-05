@@ -5,7 +5,7 @@
   "extends": ["standard", "prettier"],
   "plugins": ["mocha"],
   "rules": {
-    "prefer-const": "error"
+    "prefer-const": "error",
     "comma-dangle": ["error", "always-multiline"],
     "no-else-return": "error",
     "object-shorthand": ["error", "always", { "avoidExplicitReturnArrows": true }],
