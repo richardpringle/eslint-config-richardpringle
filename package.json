@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-richardpringle",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "eslint.json",
   "scripts": {},
